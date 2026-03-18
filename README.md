@@ -1,8 +1,8 @@
 # prob140-user-image
 
-This is the repository for the astro datahub and local user images.
+This is the repository for the prob140 user images.
 
-See this repository's [CONTRIBUTING.md](https://github.com/berkeley-dsep-infra/astro-user-image/blob/main/CONTRIBUTING.md) for instructions. That information will eventually be migrated to docs.datahub.berkeley.edu.
+See this repository's [CONTRIBUTING.md](https://github.com/berkeley-dsep-infra/prob140-user-image-03-26/blob/main/CONTRIBUTING.md) for instructions. That information will eventually be migrated to docs.datahub.berkeley.edu.
 
 # building the image locally
 
