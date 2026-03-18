@@ -6,7 +6,7 @@ channels:
 dependencies:
   - ipywidgets==8.1.5
   - sympy==1.13.3
-  - ipympl=0.9.*
+  - ipympl=0.10.0
 
 # pip packages, conda preferred check https://anaconda.org/search first!
   - pip:
