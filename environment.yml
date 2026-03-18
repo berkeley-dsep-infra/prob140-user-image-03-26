@@ -6,8 +6,9 @@ channels:
 dependencies:
   - ipywidgets==8.1.5
   - sympy==1.13.3
+  - ipympl=0.9.*
 
 # pip packages, conda preferred check https://anaconda.org/search first!
   - pip:
       - prob140==0.4.1.6
-      - jupytutor==0.3.0
+      - jupytutor==0.3.1
